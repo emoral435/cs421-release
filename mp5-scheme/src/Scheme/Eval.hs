@@ -11,6 +11,9 @@ import Control.Monad.Except
 
 -- ### Evaluation helpers
 
+tag1 = 39236
+tag2 = 97713
+
 -- Evaluates a symbol to string
 -- Throws an error if value is not a symbol
 -- Examples:
